@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Computer Vision, Explainable AI, Machine Learning**
 
-- ⚡ Fun fact **I create YouTube videos**
+- ⚡ **Fun fact: [I create YouTube videos](https://www.youtube.com/@mjmim)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
